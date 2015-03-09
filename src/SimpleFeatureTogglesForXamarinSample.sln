@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFeatureTogglesForXamarinSample", "SimpleFeatureTogglesForXamarinSample\SimpleFeatureTogglesForXamarinSample.csproj", "{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Release|iPhone.Build.0 = Release|iPhone
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{35D8EBC6-541E-4B5C-8248-BA80B1F3AEE3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
